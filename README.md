@@ -1,6 +1,6 @@
 # turnkeyid
 Mengolah data melalui API https://randomuser.me/api/?results=20 dan membuat card yang berisi data users melalui 
-framework VUE + Bootstrap-vue datang yang di hasilkan sebagai berikut:
+framework VUE Js + Bootstrap-vue datang yang di hasilkan sebagai berikut:
 1. Name
 2. Telephone
 3. Email address
